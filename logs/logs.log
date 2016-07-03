@@ -1,0 +1,11 @@
+2016-07-03 21:17:39 INFO  PrintInfo:10 - I get - Hello
+2016-07-03 21:17:39 INFO  PrintInfo:10 - I get - My name is Andrew!
+2016-07-03 21:17:39 INFO  PrintInfo:10 - I get - 10
+2016-07-03 21:17:48 INFO  PrintInfo:10 - I get - Hello
+2016-07-03 21:17:48 INFO  PrintInfo:10 - I get - My name is Andrew!
+2016-07-03 21:17:48 INFO  PrintInfo:10 - I get - 10
+2016-07-03 21:19:02 INFO  PrintInfo:13 - I get - Hello
+2016-07-03 21:19:02 INFO  PrintInfo:13 - I get - My name is Andrew!
+2016-07-03 21:19:02 ERROR PrintInfo:11 - bad massage!
+2016-07-03 21:19:02 INFO  PrintInfo:13 - I get - war
+2016-07-03 21:19:02 INFO  PrintInfo:13 - I get - 10
